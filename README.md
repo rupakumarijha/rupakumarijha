@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarijharupa4&show_icons=true&locale=en" alt="kumarijharupa4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarijharupa4&" alt="monukumarjha2020" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarijharupa4&" alt="kumarijharupa4" /></p>
